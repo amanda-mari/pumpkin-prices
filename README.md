@@ -9,5 +9,5 @@ The purpose of this project is to analyze data on pumpkin prices in 13 U.S. citi
 * R 
 
 ## Project Description
-The data is from Kaggle and can be found [here] https://www.kaggle.com/usda/a-year-of-pumpkin-prices. It also can be found in the "raw/data" folder of this repo. 
+The data is from Kaggle and can be found [here](https://www.kaggle.com/usda/a-year-of-pumpkin-prices). It also can be found in the "raw/data" folder of this repo. 
 
